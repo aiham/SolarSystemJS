@@ -1,3 +1,5 @@
+**Note:** Not maintained
+
 SolarSystemJS
 =============
 
